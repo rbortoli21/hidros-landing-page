@@ -1,6 +1,6 @@
 # The app is available here:
 
-[https://master--hidros-landing.netlify.app/]
+https://master--hidros-landing.netlify.app/
 
 # React + TypeScript + Vite
 
